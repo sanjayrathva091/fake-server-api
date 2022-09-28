@@ -1,0 +1,14 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "demo-fake-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sanjay-rathva",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
